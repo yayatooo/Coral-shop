@@ -4,7 +4,7 @@ import ContainerGallery from "./components/gallery/ContainerGallery";
 import Banner from "./components/gallery/Banner";
 import BestSeller from "./components/gallery/BestSeller";
 import Promote from "./components/Promote";
-import FooterContainer from "./components/Footer/FooterContainer";
+import FooterContainer from "./components/footer/FooterContainer";
 function App() {
   return (
     <>
