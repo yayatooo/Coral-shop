@@ -1,5 +1,4 @@
 import React from "react";
-import NavIcon from "./NavIcon";
 import NavLink from "./NavLink";
 import TopNav from "./TopNav";
 import Hero from "./Hero";
@@ -7,7 +6,7 @@ import Hero from "./Hero";
 const Navbar = () => {
   return (
     <>
-      <div className="w-full bg-base-color">
+      <div className="w-full bg-base-color py-10">
         <TopNav />
         <hr className="w-10/12 mx-auto border-black " />
         <NavLink />
